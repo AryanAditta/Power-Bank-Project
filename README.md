@@ -26,6 +26,4 @@ The project studies the basic architecture of a rechargeable power bank, includi
 
 `Power Electronics` · `Li-Ion Battery` · `Battery Charging` · `Boost Converter` · `Portable Power`
 
-This undergraduate hardware project is part of my broader circuit-design background.
-
-[GitHub Profile](https://github.com/AryanAditta) · [RFIC Academic Profile](https://aryanaditta.github.io/rfic-academic/)
+This undergraduate hardware project is part of my broader circuit-design and hardware-design background.
